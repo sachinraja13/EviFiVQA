@@ -16,6 +16,8 @@ The ground_truth Field
 The ground_truth column is a JSON formatted string and is the core of the answer data. To use it, you must first parse it into a Python dictionary.
 Python
 
+### The dataset can be accessed at [this link](https://drive.google.com/drive/folders/1-eaNpk40fnlLPp4fjVGDhlAnCykU3y5X?usp=sharing).
+
 
 ## Example from a loaded dataset
 ```
